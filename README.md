@@ -1,3 +1,3 @@
 TUMAIgotchi
 
-https://devpost.com/software/coolgroup#submission-history
+https://devpost.com/software/coolgroup
